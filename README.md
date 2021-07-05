@@ -14,10 +14,10 @@
 * Fonksiyonel Component lar temel olarak React elementlerini (JSX) dönen JavaScript fonksiyonlarıdır.
 * v.16.8 ile beraber fonksiyonel componentlar state' e erişim sağlayabilir oldu.
 #### Örnek Functional Component 
-![lokk the png](images\5.PNG)
+![lokk the png](.\images\5.PNG)
 Mesela bu çok basit ve temel bir componenttır ek olarak da bu bir fonksiyonel componenttır deriz.
 * Ayrıca arrow functıon olarak da bunu daha sade bir şekilde gösterebiliyoruz. Bknz.
-![lokk the png](images\8.PNG)
+![lokk the png](.\images\8.PNG)
 * Bu oluşan component ı sayfamızda görünmesini sağlamak için component ımızı render etmemiz lazım. **render() metodu ReactDom' a ait bir metottur.**
 
 ![lokk the png](images\6.PNG)
@@ -31,7 +31,7 @@ Mesela bu çok basit ve temel bir componenttır ek olarak da bu bir fonksiyonel 
 * Bu ifade React.Component için bir miras oluşturur ve bileşeninize 
 React.Component'in işlevlerine erişim sağlar.
 * Bileşen ayrıca bir render()yöntem gerektirir , bu yöntem HTML döndürür.
-![lokk the png](images\7.PNG)
+![lokk the png](.\images\7.PNG)
 #
 ## Props ve State Kavramları Özet
 * Prop -> Parameter. Component ‘e geçilen parametre diyebiliriz. React, component ları kullanan bir kütüphane ve React' ın temel işlevi bu component ları sayfada uygun yerlere yerleştirmektir. Bazı durumlarda bu componentlar arasında veri alışverişi olur. İşte bu alışverişi React'ta props lar yardımıyla gerçekleştirilir. 
